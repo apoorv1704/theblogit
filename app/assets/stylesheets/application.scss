@@ -192,7 +192,7 @@ a {
 	}
 	#page_wrapper {
 		padding: 3em;
-		#profile_image {
+		.profile_image {
 			width: 300px;
 			float: left;
 			margin-right: 2em;
@@ -201,7 +201,7 @@ a {
 				border-radius: 0.35em;
 			}
 		}
-		#content {
+		.content {
 			h1 {
 				font-weight: 500;
 			}
